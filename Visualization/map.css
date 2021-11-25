@@ -23,7 +23,7 @@ p {
 * Create a position for the map
 * on the page */
 #canvas {
-  width: 1300px;
+  width: 1400px;
   height: 2500px;
 }
 
@@ -35,7 +35,7 @@ p {
 }
 
 #map {
-  width: 600px;
+  width: 700px;
   height: 700px;
   float: left;
   display: inline-block;
