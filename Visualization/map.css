@@ -23,12 +23,12 @@ p {
 * Create a position for the map
 * on the page */
 #canvas {
-  width: 1200px;
+  width: 1300px;
   height: 2500px;
 }
 
 #chart {
-  width: 600px;
+  width: 700px;
   height: 2500px;
   float: left;
   display: inline-block;
