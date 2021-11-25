@@ -4,7 +4,7 @@ var map = new mapboxgl.Map({
   container: 'map', // container id
   style: 'mapbox://styles/mapbox/light-v10', // use a base map without any data
 //   style: 'https://studio.mapbox.com/tilesets/smriti283.2cqog2ia/#0.27/0/-74'
-  center: [-73.93, 38.72],
+  center: [-73.93, 36.72],
   zoom: 11,
 });
 
