@@ -89,7 +89,7 @@ map.on('load', function() {
         }],
         layout = {
           title: ' No. of Beacons',
-          width: 700,
+          width: 600,
           bargap:0,
 //           hovermode: 'closest',
           xaxis: {
